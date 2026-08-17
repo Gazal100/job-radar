@@ -24,12 +24,11 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run job radar pipeline
-        working-directory: scripts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
-        run: python run_pipeline.py
+        run: python scripts/run_pipeline.py
 
       - name: Commit updated results
         run: |
