@@ -2,7 +2,7 @@ name: Job Radar Scan
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours, on the hour (UTC)
+    - cron: "0 */4 * * *"   # every 2 hours, on the hour (UTC)
   workflow_dispatch: {}      # lets you trigger a run manually from the Actions tab
 
 permissions:
