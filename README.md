@@ -5,11 +5,13 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-08-22 04:27 UTC**  |  **4 open roles** across
+Last updated: **2026-08-22 08:22 UTC**  |  **6 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
 |---|---|---|---|---|
+| UNKNOWN | Working Student - Data Science (Research & Predictive Analytics) | Justwatch | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/justwatch/working-student-data-science-research-predictive-analytics-berlin-108305) |
+| UNKNOWN | REDspace: Senior Software Developer - Ad Tech |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech) |
 | REMOTE_CA | Coinbase: Analytics Engineer, GFCO Analytics |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics) |
 | REMOTE_CA | Head of Data Engineering & Platform | mercury | Greenhouse:mercury | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6141014004) |
 | ON | Lead Data Scientist — Growth & Experimentation | fullscript | Lever:fullscript | [Apply](https://jobs.lever.co/fullscript/580fdc9a-9565-4a20-a9d6-a552c606fcaa) |
