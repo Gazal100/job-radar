@@ -5,12 +5,12 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-08-24 08:41 UTC**  |  **7 open roles** across
+Last updated: **2026-08-24 12:38 UTC**  |  **7 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
 |---|---|---|---|---|
-| UNKNOWN | Senior Data Engineer - Betty CA | Bettyjobboard | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
+| ON | Senior Data Engineer - Betty CA | Bettyjobboard | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
 | UNKNOWN | Working Student - Data Science (Research & Predictive Analytics) | Justwatch | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/justwatch/working-student-data-science-research-predictive-analytics-berlin-108305) |
 | UNKNOWN | REDspace: Senior Software Developer - Ad Tech |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech) |
 | REMOTE_CA | Coinbase: Analytics Engineer, GFCO Analytics |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics) |

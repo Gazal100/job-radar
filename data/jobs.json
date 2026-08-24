@@ -7,9 +7,9 @@
     "description": "&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Betty is an innovative entertainment company pioneering at the intersection of real money online casino and casual mobile gaming. Accredited by the Alcohol and Gaming Commission of Ontario (AGCO) as a B2C operator in February 2023, we&#39;ve set a new standard in the industry. Our mission is to redefine the online casino experience by offering a uniquely transparent environment where players can relax, unwind, and enjoy themselves safely. We are committed to accessibility, fairness, and inclusivity, fostering a community of like-minded individuals who value ethical gaming practices and prioritize our players&#39; safety and enjoyment above everything else.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Values:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;We are honest&amp;nbsp;&lt;/strong&gt;- we value honesty in all aspects.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Bring the Olives&lt;/strong&gt;&amp;nbsp;- we offer premium customer experience.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Think Big&lt;/strong&gt; - we believe in always striving for more.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate with cross-functional teams, including Engineering, and business stakeholders, to define and understand data requirements.&lt;/li&gt;\n&lt;li&gt;Develop and maintain scalable data pipelines for loading data from different sources into the DWH.&lt;/li&gt;\n&lt;li&gt;Optimize and fine-tune existing data processes for improved performance.&lt;/li&gt;\n&lt;li&gt;Collaborate with infrastructure teams to implement scalable and secure data platform.&lt;/li&gt;\n&lt;li&gt;Create and maintain reports for regulatory requirements and internal business needs.&lt;/li&gt;\n&lt;li&gt;Evaluate and implement new technologies, tools, and frameworks to enhance data processing and storage capabilities.&lt;/li&gt;\n&lt;li&gt;Mentor junior colleagues, providing guidance in data engineering best practices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science, Data Science, or a related field.&lt;/li&gt;\n&lt;li&gt;3+ years of experience in a data warehouse engineering or related role.&lt;/li&gt;\n&lt;li&gt;Experience with cloud data warehousing technologies, such as Amazon Redshift, Snowflake, or Google BigQuery.&lt;/li&gt;\n&lt;li&gt;Good programming skills in Python.&lt;/li&gt;\n&lt;li&gt;Proficiency with SQL and data modelling.&lt;/li&gt;\n&lt;li&gt;Experience with pipeline orchestration tools (e.g., Airflow, Dagster).&lt;/li&gt;\n&lt;li&gt;Understanding of CI/CD principles and experience implementing automated deployment processes.&lt;/li&gt;\n&lt;li&gt;Excellent analytical and problem-solving skills.&lt;/li&gt;\n&lt;li&gt;Strong communication and teamwork skills.&lt;/li&gt;\n&lt;li&gt;Fluency in English.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with DBT.&lt;/li&gt;\n&lt;li&gt;Experience with stream processing frameworks (e.g., Apache Kafka).&lt;/li&gt;\n&lt;li&gt;Experience with containerization technologies (e.g., &lt;em&gt;Docker&lt;/em&gt;, Kubernetes).&lt;/li&gt;\n&lt;li&gt;Experience with data visualization tools (e.g., Looker, Tableau, Power BI).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive salary&lt;/li&gt;\n&lt;li&gt;Premium Health insurance&lt;/li&gt;\n&lt;li&gt;Career and skills development opportunities&lt;/li&gt;\n&lt;li&gt;Fun and collaborative team environment&lt;/li&gt;\n&lt;li&gt;New modern office space&lt;/li&gt;\n&lt;/ul&gt;<p>Find <a href=\"https://www.arbeitnow.co.uk\">Jobs in United Kingdom</a> on Arbeitnow</a>",
     "posted_at": "1787468105",
     "source": "Arbeitnow",
-    "province": "UNKNOWN",
+    "province": "ON",
     "claude_reason": "Senior Data Engineer in London, ON (AGCO regulated)",
-    "last_seen": "2026-08-24T08:41:14.925912+00:00",
+    "last_seen": "2026-08-24T12:38:01.941676+00:00",
     "first_seen": "2026-08-24T00:56:58.873884+00:00"
   },
   {
@@ -61,7 +61,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, data engineering role",
-    "last_seen": "2026-08-24T08:41:14.925912+00:00",
+    "last_seen": "2026-08-24T12:38:01.941676+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
@@ -74,7 +74,7 @@
     "source": "Lever:fullscript",
     "province": "ON",
     "claude_reason": "Toronto, ON - data science role matches target",
-    "last_seen": "2026-08-24T08:41:14.925912+00:00",
+    "last_seen": "2026-08-24T12:38:01.941676+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
