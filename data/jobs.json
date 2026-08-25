@@ -59,9 +59,9 @@
     "description": "",
     "posted_at": "2026-08-17T13:11:09-04:00",
     "source": "Greenhouse:mercury",
-    "province": "ON",
+    "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, data engineering role",
-    "last_seen": "2026-08-25T04:33:45.928636+00:00",
+    "last_seen": "2026-08-25T08:35:33.038943+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
@@ -74,7 +74,7 @@
     "source": "Lever:fullscript",
     "province": "ON",
     "claude_reason": "Toronto, ON - data science role matches target",
-    "last_seen": "2026-08-25T04:33:45.928636+00:00",
+    "last_seen": "2026-08-25T08:35:33.038943+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
