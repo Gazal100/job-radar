@@ -5,11 +5,12 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-08-27 06:46 UTC**  |  **7 open roles** across
+Last updated: **2026-08-27 18:44 UTC**  |  **8 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
 |---|---|---|---|---|
+| UNKNOWN | Toptal: Data Scientist for Top Cosmetic firm |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm) |
 | ON | Senior Data Engineer - Betty CA | Bettyjobboard | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
 | UNKNOWN | Working Student - Data Science (Research & Predictive Analytics) | Justwatch | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/justwatch/working-student-data-science-research-predictive-analytics-berlin-108305) |
 | UNKNOWN | REDspace: Senior Software Developer - Ad Tech |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech) |

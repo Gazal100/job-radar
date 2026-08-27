@@ -1,5 +1,18 @@
 [
   {
+    "title": "Toptal: Data Scientist for Top Cosmetic firm",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm",
+    "description": "<p>\n  <strong>Headquarters:</strong> \n</p>\n\n<p><strong>Summary</strong><br />We are seeking a Data Scientist to analyze anonymized consumer interaction data and uncover patterns in unstructured language across call center and cross-channel conversations. The primary goal is to identify intent, surface trends, and turn language into structured insights that can inform content strategy and web experiences.</p><p><strong>General information</strong><br />This engagement focuses on a large historical dataset collected over 10 years across consumer information and interaction touchpoints. The data includes call center and cross-channel interactions, with existing KPI reporting around areas such as conflict types and call duration, but limited analysis of the underlying unstructured language.</p><p>The data sits in a homegrown database and Azure environment, with an anonymized semantic layer. The initial phase will be exploratory and somewhat open-ended, starting with manual exports of conversation data before more connected pipelines are established. This role will work closely with a Program Manager supporting the broader effort.</p><p><br /></p><p><strong>Tasks and Deliverables</strong><br />- Analyze anonymized consumer interaction and call center conversation data.<br />- Review exported conversation data across channels, brands, and interaction types.<br />- Identify intent patterns within unstructured language and conversation content.<br />- Spot trends in customer language not captured by existing KPI reporting.<br />- Convert unstructured language into structured insights and usable analysis frameworks.<br />- Develop recommendations on how findings can inform content strategy.<br />- Explore how LLM-era language analysis can support web content decisions.<br />- Collaborate closely with the paired Program Manager on analysis priorities and outputs.</p><p><strong>Required experience</strong><br />- Proven experience as a Data Scientist working with large-scale datasets.<br />- Strong experience analyzing unstructured text or language-based data.<br />- Experience identifying trends, patterns, and intent signals from customer interactions.<br />- Ability to translate exploratory analysis into structured, actionable insights.<br />- Experience working with anonymized or sensitive consumer data.<br />- Familiarity with Azure-based data environments.</p><p><strong>Engagement highlights</strong><br />- Opportunity to shape the first meaningful language analysis of a rich 10-year dataset.<br />- High-ownership engagement with room to define the analytical approach.<br />- Direct impact on how customer language insights inform content and web strategy.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm\">https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm</a></p>",
+    "posted_at": "Tue, 11 Aug 2026 12:40:35 +0000",
+    "source": "We Work Remotely",
+    "province": "UNKNOWN",
+    "claude_reason": "Data Scientist role, remote, no Canada restriction stated",
+    "last_seen": "2026-08-27T18:44:31.313338+00:00",
+    "first_seen": "2026-08-27T18:44:31.313338+00:00"
+  },
+  {
     "title": "Senior Data Engineer | Betty CA",
     "company": "Bettyjobboard",
     "location": "London",
@@ -61,7 +74,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, data engineering role",
-    "last_seen": "2026-08-27T06:46:13.718690+00:00",
+    "last_seen": "2026-08-27T18:44:31.313338+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
@@ -74,7 +87,7 @@
     "source": "Lever:fullscript",
     "province": "ON",
     "claude_reason": "Toronto, ON - data science role matches target",
-    "last_seen": "2026-08-27T06:46:13.718690+00:00",
+    "last_seen": "2026-08-27T18:44:31.313338+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
