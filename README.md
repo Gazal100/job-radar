@@ -5,7 +5,7 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-08-30 03:07 UTC**  |  **9 open roles** across
+Last updated: **2026-08-30 09:40 UTC**  |  **9 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
