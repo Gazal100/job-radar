@@ -5,11 +5,12 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-08-29 22:11 UTC**  |  **8 open roles** across
+Last updated: **2026-08-30 03:07 UTC**  |  **9 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
 |---|---|---|---|---|
+| UNKNOWN | Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Co |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company) |
 | UNKNOWN | Toptal: Data Scientist for Top Cosmetic firm |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm) |
 | ON | Senior Data Engineer - Betty CA | Bettyjobboard | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
 | UNKNOWN | Working Student - Data Science (Research & Predictive Analytics) | Justwatch | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/justwatch/working-student-data-science-research-predictive-analytics-berlin-108305) |
