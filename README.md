@@ -5,11 +5,12 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-09-01 03:07 UTC**  |  **11 open roles** across
+Last updated: **2026-09-01 09:05 UTC**  |  **12 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
 |---|---|---|---|---|
+| UNKNOWN | Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d) | Aktion Mensch e.V. | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/data-engineer-junior-schwerpunkt-datenpipelines-bonn-414758) |
 | REMOTE_CA | Toptal: Python Backend Development Talent with RAG and Agentic AI Experience |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience) |
 | REMOTE_CA | A.Team: Senior Independent AI Engineer / Architect |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect) |
 | REMOTE_CA | Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Co |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company) |
