@@ -1,5 +1,31 @@
 [
   {
+    "title": "Senior Data Scientist",
+    "company": "mercury",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6179231004",
+    "description": "",
+    "posted_at": "2026-09-02T11:44:49-04:00",
+    "source": "Greenhouse:mercury",
+    "province": "REMOTE_CA",
+    "claude_reason": "Remote within Canada, Senior Data Scientist role",
+    "last_seen": "2026-09-02T22:16:06.242962+00:00",
+    "first_seen": "2026-09-02T22:16:06.242962+00:00"
+  },
+  {
+    "title": "Staff Data Scientist",
+    "company": "mercury",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6178814004",
+    "description": "",
+    "posted_at": "2026-09-02T11:55:17-04:00",
+    "source": "Greenhouse:mercury",
+    "province": "REMOTE_CA",
+    "claude_reason": "Remote within Canada, Staff Data Scientist role",
+    "last_seen": "2026-09-02T22:16:06.242962+00:00",
+    "first_seen": "2026-09-02T22:16:06.242962+00:00"
+  },
+  {
     "title": "Lemon.io: Senior AI Engineer",
     "company": "",
     "location": "Remote",
@@ -165,7 +191,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, data engineering role",
-    "last_seen": "2026-09-02T08:19:21.239940+00:00",
+    "last_seen": "2026-09-02T22:16:06.242962+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
@@ -178,7 +204,7 @@
     "source": "Lever:fullscript",
     "province": "ON",
     "claude_reason": "Toronto, ON - data science role matches target",
-    "last_seen": "2026-09-02T19:09:56.626612+00:00",
+    "last_seen": "2026-09-02T22:16:06.242962+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {

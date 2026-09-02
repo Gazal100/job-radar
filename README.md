@@ -5,11 +5,13 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-09-02 19:09 UTC**  |  **15 open roles** across
+Last updated: **2026-09-02 22:16 UTC**  |  **17 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
 |---|---|---|---|---|
+| REMOTE_CA | Senior Data Scientist | mercury | Greenhouse:mercury | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6179231004) |
+| REMOTE_CA | Staff Data Scientist | mercury | Greenhouse:mercury | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6178814004) |
 | REMOTE_CA | Lemon.io: Senior AI Engineer |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4) |
 | REMOTE_CA | Azumo: Technical Leader - Latin America |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america) |
 | REMOTE_CA | Azumo: Data Engineer - Latin America |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america) |
