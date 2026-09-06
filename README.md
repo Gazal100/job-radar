@@ -5,11 +5,12 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-09-06 14:47 UTC**  |  **18 open roles** across
+Last updated: **2026-09-06 17:57 UTC**  |  **19 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
 |---|---|---|---|---|
+| UNKNOWN | Data Engineer | Nebius | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202) |
 | UNKNOWN | Senior Analytics Engineer, GFCO Analytics | coinbase | Greenhouse:coinbase | [Apply](https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880) |
 | REMOTE_CA | Senior Data Scientist | mercury | Greenhouse:mercury | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6179231004) |
 | REMOTE_CA | Staff Data Scientist | mercury | Greenhouse:mercury | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6178814004) |
