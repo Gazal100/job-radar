@@ -1,5 +1,18 @@
 [
   {
+    "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
+    "company": "praxipal",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-345260",
+    "description": "<p style=\"min-height:1.5em\">At praxipal, we are building an AI-powered healthcare admin workforce to address the global shortage of medical staff.</p><p style=\"min-height:1.5em\">Medical assistants are too valuable to spend their days chasing callbacks, cleaning up schedules, sending repetitive messages, or wrestling with invoicing and documentation workflows. Staff should spend time on patients. That’s why we build Luna.</p><p style=\"min-height:1.5em\">Our AI receptionist, Luna, answers and automates phone calls and she’s loved by hundreds of medical practitioners. Right now, we’re expanding her from calls to end-to-end patient communication across any channel. Over the next years, we’ll grow her into an AI worker that automates all administrative processes in medical practices, embedded directly into the systems practice teams already use.</p><p style=\"min-height:1.5em\">We’re backed by one of Europe’s leading investors and are one of the fastest growing healthtech startups in Germany. Our team has previously worked and studied at Palantir, Amazon, SAP, the University of Cambridge, and Hasso Plattner Institute.</p><p style=\"min-height:1.5em\">We're hiring a (Senior) Software Engineer to help us scale Luna from hundreds of medical practitioners to hundreds of thousands.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2>The role</h2><p style=\"min-height:1.5em\">Integration is the bottleneck and the unlock: Luna can only automate workflows when she can reliably read and write the source of truth inside a practice: schedules, patient context, messages, statuses, and workflow metadata. That data lives in practice management systems (PMS) and related tools.</p><p style=\"min-height:1.5em\">You’ll work hands-on, shipping production integrations. As the integration surface grows, you’ll shape the architecture, standards, and processes that keep integration work scalable.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2>What you'll do</h2><h3>Build integrations that unlock Luna’s next capabilities</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and implement read/write integrations into third-party practice management systems</p></li><li><p style=\"min-height:1.5em\">Design infrastructure that scales to hundreds of thousands of individual practice servers</p></li><li><p style=\"min-height:1.5em\">Engineer reliability into the system: data consistency, idempotency, retries, error handling, observability</p></li><li><p style=\"min-height:1.5em\">Triage integration failures in production, communicate impact clearly, and harden the system so the same class of failure doesn’t repeat</p></li></ul><h3>Make integration a scalable capability</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Define technical standards and architecture for integrations</p></li><li><p style=\"min-height:1.5em\">Establish pragmatic processes for development, maintenance, and incident handling</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2>What we're looking for</h2><h3>Must-have</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Strong hands-on programming experience in Python, TypeScript and/or Rust</p></li><li><p style=\"min-height:1.5em\">Proven experience building and running software in production</p></li><li><p style=\"min-height:1.5em\">Strong understanding of integration patterns, distributed systems, and failure modes</p></li><li><p style=\"min-height:1.5em\">Comfort operating in messy environments (inconsistent behavior, missing docs, etc.)</p></li><li><p style=\"min-height:1.5em\">Clear communication under pressure (during incidents, vendor issues, competing priorities)</p></li><li><p style=\"min-height:1.5em\">Excited to work in a fast-paced environment</p></li></ul><h3>Nice-to-have</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Prior work on healthcare software or practice management systems</p></li><li><p style=\"min-height:1.5em\">Familiarity with healthcare workflows, terminology, or data standards (e.g. FHIR)</p></li><li><p style=\"min-height:1.5em\">Fluent German (spoken and written) </p></li><li><p style=\"min-height:1.5em\">Experience in startups or scale-ups</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>Location &amp; compensation</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Location:</strong> Remote</p></li><li><p style=\"min-height:1.5em\"><strong>Compensation: </strong>Competitive salary and participation in our VSOP program</p></li><li><p style=\"min-height:1.5em\"><strong>Team bonding</strong>: Regular get-togethers, happy hours and offsites</p></li><li><p style=\"min-height:1.5em\"><strong>Health and productivity</strong>: Urban Sports Club subscription</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">If you want to shape the next generation of healthcare software with us, apply now.</p><hr><p>Compensation: €70K – €100K • Offers Equity</p><ul><li> • €70K – €100K • Offers Equity</li></ul><p>Find more <a href=\"https://www.arbeitnow.fr/english-speaking-jobs\">English Speaking Jobs in France</a> on Arbeitnow</a>",
+    "posted_at": "1789177202",
+    "source": "Arbeitnow",
+    "province": "UNKNOWN",
+    "claude_reason": "Data integration, healthcare admin, remote but no Canada confirmation",
+    "last_seen": "2026-09-12T14:51:09.904402+00:00",
+    "first_seen": "2026-09-12T14:51:09.904402+00:00"
+  },
+  {
     "title": "Data Engineer (m/f/d)",
     "company": "Ecoplanet Green Operations Gmbh",
     "location": "München",
@@ -22,7 +35,7 @@
     "source": "We Work Remotely",
     "province": "ON",
     "claude_reason": "Remote Canada-based; product manager role adjacent to data/analytics",
-    "last_seen": "2026-09-11T18:55:45.926919+00:00",
+    "last_seen": "2026-09-12T14:51:09.904402+00:00",
     "first_seen": "2026-09-11T15:43:09.398816+00:00"
   },
   {
@@ -74,7 +87,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, Senior Data Scientist role",
-    "last_seen": "2026-09-12T08:18:24.694977+00:00",
+    "last_seen": "2026-09-12T14:51:09.904402+00:00",
     "first_seen": "2026-09-02T22:16:06.242962+00:00"
   },
   {
@@ -87,7 +100,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, Staff Data Scientist role",
-    "last_seen": "2026-09-12T08:18:24.694977+00:00",
+    "last_seen": "2026-09-12T14:51:09.904402+00:00",
     "first_seen": "2026-09-02T22:16:06.242962+00:00"
   },
   {
@@ -256,7 +269,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, data engineering role",
-    "last_seen": "2026-09-12T08:18:24.694977+00:00",
+    "last_seen": "2026-09-12T14:51:09.904402+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
@@ -269,7 +282,7 @@
     "source": "Lever:fullscript",
     "province": "ON",
     "claude_reason": "Toronto, ON - data science role matches target",
-    "last_seen": "2026-09-12T08:18:24.694977+00:00",
+    "last_seen": "2026-09-12T14:51:09.904402+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
