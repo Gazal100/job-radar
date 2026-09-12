@@ -5,11 +5,12 @@ Arbeitnow, RemoteOK, We Work Remotely, and any Greenhouse/Lever companies
 configured in `scripts/config.py`. Filtered and tagged by province using
 the Anthropic API.
 
-Last updated: **2026-09-12 02:43 UTC**  |  **21 open roles** across
+Last updated: **2026-09-12 08:18 UTC**  |  **22 open roles** across
 1 provinces/territories tracked.
 
 | Province | Title | Company | Source | Link |
 |---|---|---|---|---|
+| UNKNOWN | Data Engineer (m/f/d) | Ecoplanet Green Operations Gmbh | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-63681) |
 | ON | Confluent: Senior Product Manager, Cluster Linking |  | We Work Remotely | [Apply](https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking) |
 | UNKNOWN | Data Platform Engineer Working Student (m/w/d) | Trusteq Gmbh | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-56537) |
 | UNKNOWN | Data Engineer | Nebius | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202) |

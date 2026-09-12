@@ -1,5 +1,18 @@
 [
   {
+    "title": "Data Engineer (m/f/d)",
+    "company": "Ecoplanet Green Operations Gmbh",
+    "location": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-63681",
+    "description": "<br><strong>What we are building</strong><p>At ecoplanet, we're redefining energy for tomorrow. Our mission: turn energy management into the competitive edge every European business relies on to win its market. We're building the operating system for the energy transition — cutting energy costs, improving efficiency, and streamlining operations. Backed by EQT Ventures, HV Capital and more, and built by a team full of top-tier talent.</p><br><strong>Why This Role Matters</strong><p>You will build and run the data backbone the whole product sits on. Meter readings arrive from industrial sites across Europe, through messages or us accessing APIs. Your job is to get that data in clean, on time, and in a shape that dashboards, insights and forecasts can rely on.<br><br>You will join a team of 12 engineers in two squads. Small team, real ownership, and what you build reaches customers in weeks rather than quarters.</p><br><strong>What You’ll Achieve</strong><p><ul><li>Meter data integration. Connect industrial hardware and utility data streams into real-time dashboards. Every site is a little different, so a good part of the job is bringing data into a consistent structure across all sites</li><li>Anomalies and insights. This is where data science comes in. Find the things in the data a customer would want to know about — a meter drifting, a machine left running overnight, consumption that does not fit the pattern — and turn them into something they can act on</li><li>Tech stack and growth. Support the engineering team building scalable data pipeline</li></ul></p><br><strong>What Sets You Up for Success</strong><p><p><strong>Must have:</strong></p><ul><li><p>At least 3–5 years in a data engineering role or something close to it, building pipelines other people depend on</p></li><li><p>Hands-on data science experience. You do not need a research background. You do need to have built and evaluated models yourself: enough to tell a real anomaly from noise, to judge when a finding is solid enough to put in front of a paying customer, and to know what a pipeline owes a model running in production</p></li><li><p>Solid with Python and SQL and cloud data infrastructure. You have designed and run pipelines, APIs and workflows in production</p></li><li><p>Comfortable with high-volume time-series data: ingestion, data quality, backfills, and the everyday reality of late, missing and duplicated readings</p></li><li><p>You think end to end before you go deep. When you hit a hard problem, the first instinct we want is “can a change somewhere else in the chain make this easy?” rather than heading straight into solving the hard version. A company our size cannot afford clever answers to problems that did not need solving</p></li><li><p>Clear written and spoken English. German is a plus</p></li></ul><p><strong>Nice to have:</strong></p><ul><li><p>Energy, industrial, IoT or another domain where the data comes off real hardware</p></li><li><p>Metering or device protocols, telemetry at scale, or streaming pipelines</p></li><li><p>Knowledge of a second programming language, like TypeScript or Kotlin</p></li><li><p>You run what you build: monitoring, alerting, and the occasional early morning debugging a pipeline</p></li></ul></p><br><strong>What You Get</strong><p><ul><li>Top-of-market team, flat hierarchy — work alongside people who push you to get better</li><li>Competitive salary</li><li>Full ownership from day one — you actively shape our company</li><li>Close collaboration with our Product team</li><li>Central office, easy commute — free lunch every Tuesday and Thursday</li><li>Wellpass membership</li><li>Regular 1:1s and retros focused on your growth</li><li>Real impact — your work supports Europe's transition to a smarter energy system</li></ul></p><br><strong>The Application</strong><p>We don't do long forms. We don't do generic cover letters. Send us your CV and surprise us.<br style=\"border:0px solid;margin:0px;font-family:Inter, '-apple-system', 'system-ui', 'Segoe UI', Roboto, 'Helvetica Neue', 'Open Sans', 'system-ui', '-apple-system', 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);\"></p><p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+    "posted_at": "1789189777",
+    "source": "Arbeitnow",
+    "province": "UNKNOWN",
+    "claude_reason": "Data engineer role matches skills, location unclear if Canada",
+    "last_seen": "2026-09-12T08:18:24.694977+00:00",
+    "first_seen": "2026-09-12T08:18:24.694977+00:00"
+  },
+  {
     "title": "Confluent: Senior Product Manager, Cluster Linking",
     "company": "",
     "location": "Remote",
@@ -61,7 +74,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, Senior Data Scientist role",
-    "last_seen": "2026-09-12T02:43:17.564279+00:00",
+    "last_seen": "2026-09-12T08:18:24.694977+00:00",
     "first_seen": "2026-09-02T22:16:06.242962+00:00"
   },
   {
@@ -74,7 +87,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, Staff Data Scientist role",
-    "last_seen": "2026-09-12T02:43:17.564279+00:00",
+    "last_seen": "2026-09-12T08:18:24.694977+00:00",
     "first_seen": "2026-09-02T22:16:06.242962+00:00"
   },
   {
@@ -243,7 +256,7 @@
     "source": "Greenhouse:mercury",
     "province": "REMOTE_CA",
     "claude_reason": "Remote within Canada, data engineering role",
-    "last_seen": "2026-09-12T02:43:17.564279+00:00",
+    "last_seen": "2026-09-12T08:18:24.694977+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
@@ -256,7 +269,7 @@
     "source": "Lever:fullscript",
     "province": "ON",
     "claude_reason": "Toronto, ON - data science role matches target",
-    "last_seen": "2026-09-12T02:43:17.564279+00:00",
+    "last_seen": "2026-09-12T08:18:24.694977+00:00",
     "first_seen": "2026-08-17T20:36:54.654969+00:00"
   },
   {
